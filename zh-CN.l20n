@@ -1,6 +1,6 @@
 /* Coggle translations for Chinese (Simplified) */
 
-/* For help with syntax email
+/* For help with syntax, see http://l20n.org/learn/ or email
  * translations@coggle.it
  *
  * Each translation is made up of two parts:
@@ -16,67 +16,75 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "化繁复为简洁.">
-<index-signupnow "Sign up now">
-<index-login "Already signed up? Log in here.">
+<index-tagline "化繁为简，一图胜千言！">
+<index-signupnow "立即注册">
+<index-login "已经注册了？点击这里登录。">
 
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-login "登录">
+<index-nav-pricing "定价">
+<index-nav-features "功能">
+<index-nav-gallery "画廊">
+<index-nav-home "主页">
 
-<index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-unleash "发挥你的创造力">
+<index-blurb "简单快捷的制作精美的笔记。与朋友和同事分享你的创意。">
+<index-viewgallery "或者看一看 <a>Coggle画廊</a>获取灵感">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
+  <h1>协作式的思维导图</h1>
   <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
   <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
-  <h2>随手笔记</h2>
-  <p>开会中或者任何灵感碰撞的时候, 打开Coggle创建一份组织精美的笔记.</p>
+  <h2>Take Notes</h2>
+  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>头脑风暴</h2>
-  <p>把你的想法在Coggle中开一个小头, 然后把它一点一点变成成清晰详实可分享的大计划.</p>
+  <h2>Brainstorm</h2>
+  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>信息共享</h2>
-  <p>将每一个细节浓缩成Coggle笔记, 然后共享给团队, 同学, 或者全世界!</p>
+  <h2>Share Information</h2>
+  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
 """>
     
 <index-use-other """
-  以上仅仅是Coggle的拿手项目, – <a>马上开始</a> 来尝试你自己的用法!
+  These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
+  <h2>Help your team communicate with <a>Coggle Organizations</a>.</h2>
+  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organizations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
   <a>Sign up now<div>From $8 per member per month</div></a>
 """>
 
 <features-realtime "Realtime Collaboration">
-<features-realtime-desc "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
+<features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
 
-<features-images-title "一幅图胜过千言万语">
-<features-images "你可以拖拽你桌面上的图片到笔记中, 非常简单! 而且图片数量不限.">
+<features-images-title "Complete the picture">
+<features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
 
 <features-fullhistory-title "Save Every Change">
-<features-history "做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
+<features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
 
-<features-blame-title "任务追踪">
-<features-blame "想看看是谁在你的共享笔记中做了什么改动? 只需要进入笔记的修改历史中查看所有的修改记录.">
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
-<features-colours-title "选择最精准的颜色">
-<features-colours "外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.">
+<features-blame-title "Track accountability">
+<features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
+
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<features-colours-title "Get the color right">
+<features-colours "Click on a branch to bring up the color wheel and select the color you want.">
 
 <features-notifications-title "Email Notifications">
 <features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
@@ -93,7 +101,7 @@
 <plans-free-forever-title "Free Forever">
 <plans-free-description "Ideal for discovering Coggle and occasional use.">
 <plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
+
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
@@ -126,10 +134,11 @@
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
 <feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours "More colours">
+<feature-extendedcolours "More colors">
+<feature-editable-links "Collaborate by <b>link</b>">
 <plans-findoutmore "Find out more">
 
-<plans-org-title "Organisation">
+<plans-org-title "Organization">
 <plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
 <plans-org-price "$8 / member / month">
 <feature-org-awesome "Everything from <b>Awesome</b>">
@@ -138,6 +147,7 @@
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
 <feature-branding "Branded diagrams">
+<feature-org-saml-sso "SAML Single Sign On">
 
 <plans-select "Select">
 <continue-free "Continue on <b>Free</b> plan">
@@ -167,7 +177,8 @@
 <footer-terms "terms">
 <footer-press "press">
 <footer-gdrive "<img/> Google Drive">
-
+<footer-what-is-mindmapping "What is Mindmapping?">
+<footer-top-uses "Top Mindmap Uses">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
@@ -191,7 +202,7 @@
 <help-search placeholder:"Help me to...">
 <my-settings "My Settings & Billing">
 <org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organisation">
+<org-settings title:"Manage Organization">
 <user-about "About Coggle">
 <user-contact "Contact Us">
 <user-privacy "Privacy Policy">
@@ -207,15 +218,13 @@
 """>
 <doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
 <doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
-<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
+<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">
+<impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-upgrade """
-   <div> <b>Multiple starting points!</b> <p>Create multiple starting points with <a>Coggle Awesome</a>.</p> <a>Upgrade Now</a> <div></div> </div>
-""">
 
-<tooltip-createorg title:"Create an Organisation">
+<tooltip-createorg title:"Create an Organization">
 <tooltip-invite-folder title:"Add people to this folder by email">
 <tooltip-invite title:"Invite people to join this Coggle.">
 <tooltip-private-icon title:"Diagram is private">
@@ -229,8 +238,8 @@
 /* documents list contextual help items */
 <help-searchcoggle-title "Search Coggle">
 <help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
-<help-hide-for-now "不再提示">
-<help-ok-got-it "OK, 好的!">
+<help-hide-for-now "Hide for now">
+<help-ok-got-it "OK, got it!">
 <help-creatediagram-title "Create a New Diagram">
 <help-creatediagram """
   <p>Create a new Coggle Diagram to get started.</p>
@@ -238,10 +247,10 @@
 """>
 
 <help-createfolder-title "Create a Folder">
-<help-createfolder "创建文件夹来与他人分享, 或者是用来对Coggle笔记分类.">
+<help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
 
-<help-orgs-switch-title "Switch Between Organisations">
-<help-orgs-switch "<p>Click to switch between Organisations.</p><p>Organisations let you control sharing of Coggles and work with larger teams.</p>">
+<help-orgs-switch-title "Switch Between Organizations">
+<help-orgs-switch "<p>Click to switch between Organizations.</p><p>Organizations let you control sharing of Coggles and work with larger teams.</p>">
 
 
 /* Settings page content */
@@ -250,10 +259,12 @@
 <settings-recommend-title "Recommend">
 <settings-emails-title "Communication">
 <settings-language-title "Language">
+<settings-communication-title "Communication">
+<settings-account-title "Close Account">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
- * they create an Organisation, they are "create"ing an organisation, or when
+ * they create an Organization, they are "create"ing an organization, or when
  * they change the billing details they are "updating" them.
  */
 <settingsSubmitButton {
@@ -275,7 +286,7 @@
 """>
 <billing-on-file """
   <p>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</p>
-  <p>The billing post code we have for you is <b>{{ $addressZip }}</b>. <a>Edit card details</a></p>
+  <p>The billing zip code we have for you is <b>{{ $addressZip }}</b>. <a>Edit card details</a></p>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
@@ -311,7 +322,7 @@
     <input placeholder="City">
   </div>
   <div>
-    <input placeholder="Post Code">
+    <input placeholder="Zip Code">
   </div>
 """>
 <billing-choose-country "Choose country">
@@ -349,7 +360,7 @@
 
 <me-language-title "Choose Your Preferred Language">
 <me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
-<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
 <we-heart-you "We ♥ you.">
 <help-discover-coggle "Help the world discover Coggle and get free stuff!">
@@ -386,8 +397,8 @@
 """>
 
 /* Diagram content */
-<guide-click-here "猛击这里">
-<guide-or-here "或这里">
+<guide-click-here "click here">
+<guide-or-here "or here">
 <click-to-edit "click to edit">
 <click-to-edit-title "Click to edit title">
 <tap-to-edit "tap to edit">
@@ -399,7 +410,7 @@
 <add-to-discussion "add to discussion">
 <comment-on-this "comment on this">
 <auto-arrange "auto-arrange">
-<pick-colour "pick colour">
+<pick-colour "pick color">
 <choose-style "choose style">
 <delete-branch "delete branch"> /* (remove and item *and* all of its children) */
 <remove-item "remove item">
@@ -415,18 +426,18 @@
 <zoom-page "zoom page">
 <add-label "add label">
 
-<help-gohome "点击Coggle图标可以回到主页, 在那里可以找到所有自动保存好的笔记.">
+<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the (+) buttons to add branches.">
 <help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
 <help-move-node "Drag any text to move it.">
 <help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
 
-<help-multiline "用[ctrl] + [enter]来换行, 在输入前或者拖拽改变输入框大小.">
-<help-toolbar-invite-title "协作">
-<help-toolbar-invite "点击这里来邀请其他人一起查看或编辑此篇Coggle笔记. 你可以点击他们的头像来给予他们不同的权限.">
-<help-toolbar-invitemulti-title "邀请多人">
+<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
+<help-toolbar-invite-title "Work With Others">
+<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
+<help-toolbar-invitemulti-title "Invite Multiple People">
 <help-toolbar-invitemulti """
-  你可以一次邀请多人: 键入或者粘贴他们的邮件地址, 用空格, 逗号<b>,</b>或者分号<b>;</b>来分隔
+  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
 """>
 <help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Enter a Co-worker's Email">
@@ -465,6 +476,7 @@
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
 <messages-start "You've reached the start!">
 <messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
+<messages-comments-notes "Enter comments, discussion and notes.">
 
 <diagram-toolbar-history title:"View and copy previous versions.">
 <diagram-toolbar-messages title:"Comments and chat.">
@@ -497,24 +509,24 @@
 <share-open-detail "Public diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
 
 /* download dialog content */
-<download-pdf "下载为PDF">
-<download-png "下载为图片">
-<download-mm ".mm 文件">
-<download-txt "纯文本文件">
-<download-advanced "其他格式">
-<download-failed "文件生成失败.">
+<download-pdf "Download PDF">
+<download-png "Download Image">
+<download-mm ".mm File">
+<download-txt "Plain-Text Outline">
+<download-advanced "Advanced Types">
+<download-failed "File generation failed.">
 
 /* access control slider content */
-<access-readonly "只读<br/><span>仅给予他人阅读权限</span>">
+<access-readonly "Read only<br/><span>Only allow them to view</span>">
 <access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "创作者<br/><span>允许创建和修改文档</span>">
+<access-author "Author<br/><span>Allow creating and editing documents</span>">
 
-<access-folder-readonly "只读<br/><span>仅给予他人阅读权限</span>">
+<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
 <access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "创作者<br/><span>允许创建和修改文档</span>">
-<access-folder-admin "管理员<br/><span>添加和删除成员与文档</span>">
+<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
 
-<access-remove "移除 {{ $user.givenName }}">
+<access-remove "Remove {{ $user.givenName }}">
 
 /* Notification Messages */
 <readonly-warning """
@@ -534,10 +546,10 @@
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-  图片已经被缩放至适合于{{ $maxWidth }} &times; {{ $maxHeight }}, 以让我们可以永久的保存你的图片!
+  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
   You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
-<imgupload-slow-down "别着急, 同时只能上传一张图片.">
+<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
 
 
 /* shortcut help content (in the messages panel on the right-hand side of a
@@ -553,68 +565,68 @@
 <sidebar-contextmenu "Context Menu">
 <sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-tapformenu "Tap an item or the background to access a menu.">
-<sidebar-controls "控制">
+<sidebar-controls "Controls">
 <sidebar-addbranch """
-  <div>添加分支:</div>
-  <div><span> 单击 </span><div></div></div>
+  <div>Add Branch:</div>
+  <div><span> click </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>删除分支:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + 单击 </span> <div></div></div>
+  <div>Remove Branch:</div>
+  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>插入分支:</div>
-  <div><div> shift </div> <span> + 单击 </span> <div></div></div>
+  <div>Insert Branch:</div>
+  <div><div> shift </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> 移动: </div>
-  <div><div> 鼠标拖动 </div></div>
+  <div> Move Branch: </div>
+  <div><div> drag anything! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> 嫁接分支: </div>
+  <div> Transplant Branch: </div>
   <div><div> shift </div> <span> + drag </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> 更改颜色: </div>
-  <div><span> 单击分支 </span></div>
+  <div> Change Colors: </div>
+  <div><span> click a branch </span></div>
 """>
 <sidebar-addimages """
-  <div> 添加 <a>图片</a>: </div>
-  <div><div> 拖拽图片文件至工作区 </div></div>
+  <div> Add <a>Images</a>: </div>
+  <div><div> drag and drop </div></div>
 """>
 <sidebar-zoom """
-  <div> 放大缩小: </div>
-  <div><div> ctrl </div><span> + 鼠标滚轮 </span></div>
+  <div> Zoom: </div>
+  <div><div> ctrl </div><span> + mousewheel </span></div>
 """>
-<sidebar-shortcuts "快捷键">
+<sidebar-shortcuts "Shortcuts">
 <sidebar-undo """
-  <div> 撤销修改: </div>
+  <div> Undo: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> 重做修改: </div>
+  <div> Redo: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "输入文字时">
+<sidebar-whentyping "When typing">
 <sidebar-sc-newitem """
-  <div> 新并列节点: </div>
-  <div><div> shift </div><span> + </span><div> return </div></div>
+  <div> New Item: </div>
+  <div><div> shift </div><span> + </span><div> enter </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> 新子节点: </div>
+  <div> New Child Item: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> 跳转回父节点: </div>
+  <div> Jump to Parent: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>调整文字格式: </div>
-    <div>使用<a>Markdown格式说明</a></div>
+    <div>Format text: </div>
+    <div>use <a>Markdown</a></div>
 """>
 <another-fact "another!">
 <cogglefacts-more """
-  更多...
+  Read more...
 """>
 <sidebar-markdown "Markdown">
 <sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
@@ -667,66 +679,69 @@
 <awesome-feature-bigimages-title "Show Them the Big Picture">
 <awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
 
-<awesome-feature-colours-title "More Colours">
-<awesome-feature-colours "Unlock a new range of vivid colours to help organise and highlight your ideas.">
+<awesome-feature-colours-title "More Colors">
+<awesome-feature-colours "Unlock a new range of vivid colors to help organize and highlight your ideas.">
 
 <awesome-feature-autoarrange-title "Automatic Branch Layout">
 <awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
 
 <awesome-feature-folders-title "Shared Folders">
-<awesome-feature-folders "Put your diagrams into folders to keep them organised and easily share them all with a group of collaborators.">
+<awesome-feature-folders "Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.">
 
 
 <awesome-hint-orgs """
-  If you're using Coggle for work, check out <a>Coggle Organisations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  If you're using Coggle for work, check out <a>Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
 """>
 
 
-/* Organisations Landing Page (/organisations) */
+/* Organizations Landing Page (/organizations) */
 <orgs-pitch-3 """
-  <h2>Coggle Organisations</h2>
-  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
+  <h2>Coggle Organizations</h2>
+  <p>Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
 """>
 
 <orgs-signup "<a>CREATE ORGANISATION</a>">
 
 <orgs-subpitch """
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
+  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
   <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
+<orgs-feature-saml-sso-title "SAML Single Sign On">
+<orgs-feature-saml-sso "Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.">
+
 <orgs-feature-in-one-place-title "Everything in One Place">
-<orgs-feature-in-one-place "All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.">
+<orgs-feature-in-one-place "All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.">
 
 <orgs-feature-control-sharing-title "Control Sharing">
-<orgs-feature-control-sharing "You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.">
+<orgs-feature-control-sharing "You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.">
 
 <orgs-feature-manage-users-title "Safely Manage Users">
-<orgs-feature-manage-users "Safely Manage UsersRemove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active">
+<orgs-feature-manage-users "Safely Manage UsersRemove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active">
 
 <orgs-feature-export-title "Bulk Export">
-<orgs-feature-export "Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.">
+<orgs-feature-export "Organisation admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.">
 
 <orgs-feature-branding-title "Show your Brand">
 <orgs-feature-branding "Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.">
 
 <orgs-feature-editable-links-title "Editable Private Links">
-<orgs-feature-editable-links "Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.">
+<orgs-feature-editable-links "Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.">
 
 <orgs-feature-awesome """
-  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
+  In addition, all members of your organization will get the Coggle <a>Awesome</a> features.
 """>
 
-/* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title2 "Create a <a>Coggle Organisation</a>">
+/* Organizations Sign-Up Page (/organizations/new) */
+<orgcreate-title2 "Create a <a>Coggle Organization</a>">
 <orgcreate-nameinput """
-  <input placeholder="Choose Your Organisation Name">
-  <span>Pick something short and recognisable!</span>
+  <input placeholder="Choose Your Organization Name">
+  <span>Pick something short and recognizable!</span>
 """>
 
 <faq-orgs-whatare """
-  <div>What are Coggle Organisations?</div>
-  <div><p>Coggle Organisations create a separation between your personal
+  <div>What are Coggle Organizations?</div>
+  <div><p>Coggle Organizations create a separation between your personal
   diagrams and those owned by your company. By separating what's personal from
   what's professional you gain greater control over your businesses data that's
   stored in Coggle, including when and how it's shared by your
@@ -734,52 +749,52 @@
 """>
 
 <faq-orgs-whofor """
-  <div>Who are Coggle Organisations for?</div>
+  <div>Who are Coggle Organizations for?</div>
   <div>
-    <p>Coggle Organisations have been designed for teams that require
+    <p>Coggle Organizations have been designed for teams that require
       greater control over the data they enter into Coggle, or need to keep
       personal data separate. They're being successfully used by private
       companies, public bodies, schools and universities to help groups
       collaborate securely.</p> 
     <p>Any group that need more control over sharing of diagrams, whether for
-      regulatory or internal policy compliance will find Coggle Organisations
+      regulatory or internal policy compliance will find Coggle Organizations
       useful.</p>
   </div>
 """>
 
 <faq-orgs-features """
-  <div>What are the main features of a Coggle Organisation?</div>
+  <div>What are the main features of a Coggle Organization?</div>
   <div>
     <p><b>Administrators dashboard</b>: complete control over diagrams created
-      by members of your organisation, including restoration of deleted diagrams.
+      by members of your organization, including restoration of deleted diagrams.
     </p>
     <p><b>Data control</b>: choose to limit sharing of data to within your
-      organisation only.</p>
-    <p><b>Bulk export</b>: export all diagrams in your organisation for backup
+      organization only.</p>
+    <p><b>Bulk export</b>: export all diagrams in your organization for backup
       or regulatory purposes.</p>
-    <p><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
+    <p><b>Centralized billing</b>: pay for multiple Awesome subscriptions in
       one place, and revoke subscriptions when members come and go from your
       organsiation. </p>
   </div>
 """>
 
 <faq-orgs-awesome """
-  <div>How do Coggle Organisations relate to Coggle Awesome?</div>
+  <div>How do Coggle Organizations relate to Coggle Awesome?</div>
   <div>
-    <p>Coggle Organisations are a great way to centralise billing and license
+    <p>Coggle Organizations are a great way to centralize billing and license
       management for multiple Coggle Awesome subscriptions.</p>
-    <p>Every user in your Organisation will automatically get Coggle Awesome
-      when they're working on diagrams in your organisation workspace. This means
+    <p>Every user in your Organization will automatically get Coggle Awesome
+      when they're working on diagrams in your organization workspace. This means
       all the great features including private diagrams, presentation mode,
       extended colour palette and high resolution image uploads.</p>
   </div>
 """>
 
 <faq-orgs-billing """
-  <div>How does billing work for Coggle Organisations?</div>
-  <div>Coggle Organisations are charged at $8 per member per month. You can add
+  <div>How does billing work for Coggle Organizations?</div>
+  <div>Coggle Organizations are charged at $8 per member per month. You can add
   and remove members at any time from the dashboard for your
-  organisation.</div>
+  organization.</div>
 """>
 
 <faq-orgs-edu """
@@ -950,11 +965,11 @@ Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+Using Coggle in Business? You can create a Coggle Organization to manage your Company's Coggles.
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+Did you know Coggle Organizations can put their logo on their Coggles? They can!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+Did you know you can create a Coggle Organization to organize your businesses Coggles? You can!
 """>
