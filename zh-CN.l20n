@@ -32,35 +32,35 @@
 
 <index-colab-mindmaps """
   <h1>协作式的思维导图</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <p>Coggle 是一款创作和分享思维导图的在线工具。打开浏览器即可运行:无需下载或安装。 <a>登录</a>开启你的思维导图吧！</p>
+  <p>无论是作笔记、头脑风暴、计划或者做一些伟大的创作，Coggle 可以非常轻松地将你的想法可视化，你还可以随意地分享给你的朋友和同事。 即使相隔千里，你的任何改动都会及时地反馈在他们的浏览器上。</p>
 """>
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>随手笔记</h2>
+  <p>开会中或者任何灵感碰撞的时候，打开Coggle创建一份组织精美的笔记。</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>头脑风暴</h2>
+  <p>把你的想法在Coggle中开一个小头，然后把它一点一点变成成清晰详实可分享的大计划。</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>信息共享</h2>
+  <p>将每一个细节浓缩成Coggle笔记，然后共享给团队、同学或者全世界！</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
+  以上仅仅是Coggle拿手好戏中的一部分 – <a>马上开始</a>来探索你自己的用法吧！
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organizations</a>.</h2>
+  <h2>使用<a>Coggle组织</a>帮助你的团队交流。</h2>
   <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organizations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
   <a>Sign up now<div>From $8 per member per month</div></a>
 """>
